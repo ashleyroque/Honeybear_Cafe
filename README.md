@@ -1,5 +1,7 @@
 #### About Honey Bear Cafe 🍯🐻
 
+Link to prototype: https://www.figma.com/proto/u9gTw9AH3r4OAGQwvq8Bi5/honeybear-cafe?node-id=0-1&t=0uiDGdMAt2VbAuYb-1
+
 Welcome to **Honey Bear Cafe**, where every cup of coffee and every bite of pastry is crafted with love and care. We pride ourselves on delivering an unparalleled café experience that keeps our customers coming back for more.
 
 #### Our Mission
